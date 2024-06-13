@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/logo_resized.png" alt="progettotap" />
 </p>
+
 # safeGuard
 safeGuard is a surveillance solution designed to detect movements within a specified area using cameras. Using image processing techniques, safeGuard not only identifies motion but also tracks and compiles statistics on objects present in the monitored scenes. This enables enhanced security monitoring, providing detailed insights and data-driven analysis for improved safety and situational awareness.
 
