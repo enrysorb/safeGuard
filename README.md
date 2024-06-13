@@ -35,7 +35,7 @@ safeGuard is a surveillance solution designed to detect movements within a speci
  The dashboard displays information related to all the detections present.
  
  <p align="center">
-  <img src="images/dashboard.png" alt="progettotap" />
+  <img src="images/dashboard.PNG" alt="progettotap" />
 </p>
 
 
