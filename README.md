@@ -3,7 +3,7 @@ safeGuard is a surveillance solution designed to detect movements within a speci
 
 # How it works?
 
-![progettotap]()
+![progettotap](images/logo.png)
 
 ### Data Source 
   - [OrangePI](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/orange-pi-3-LTS.html) ---> The source data for our project is an Orange Pi device, utilized for motion detection and image capture.
