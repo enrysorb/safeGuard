@@ -20,6 +20,13 @@ safeGuard is a surveillance solution designed to detect movements within a speci
 - **Zookeeper**: It helps in maintaining configuration information, naming, providing distributed synchronization, and group services.
 - **Spark**: A Python library for distributed data processing, used to perform image detection and object counting.
 - **Elasticsearch**: A distributed search and analytics engine, used for storing and indexing data about images.
+
+### Ports
+  | Colonna 1 | Colonna 2 |
+  |-----------|-----------|
+  | Valore 1  | Valore 2  |
+  | Valore 3  | Valore 4  |
+
  
  ### Dashboard
  The dashboard displays information related to all the detections present.
