@@ -22,10 +22,13 @@ safeGuard is a surveillance solution designed to detect movements within a speci
 - **Elasticsearch**: A distributed search and analytics engine, used for storing and indexing data about images.
 
 ### Ports
-  | Colonna 1 | Colonna 2 |
+  | Service   | Port      |
   |-----------|-----------|
-  | Valore 1  | Valore 2  |
-  | Valore 3  | Valore 4  |
+  | fluentBit | 9090      |
+  | kafka     | 9092      |
+  | flask     | 9393      |
+  | elastic   | 9200      |
+  | kibana    | 5601      |
 
  
  ### Dashboard
