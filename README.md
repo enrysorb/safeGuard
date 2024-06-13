@@ -42,4 +42,4 @@ safeGuard is a surveillance solution designed to detect movements within a speci
 
 ### How to start!!
 
-Use `Docker-compose up -d` command  in the shell and have fun!
+Use `Docker-compose up -d` command  in the shell after cloning repo.Inside the "camera" directory, there will be a script file. This script is intended to be transferred or copied onto a device that has a webcam attached. Once the Docker Compose setup is complete and the containers are running, you will need to execute or activate this script on that device.
